@@ -4,6 +4,8 @@ Welcome to the Asteroids Game! This is a simple remake of the classic arcade gam
 
 ## How to Play
 
+You can play the game here: [Play Asteroids](https://grizzlypeaksoftware.github.io/asteroids/)
+
 - **Move the Ship**: Use the arrow keys to navigate your ship.
   - `Up Arrow`: Thrust forward
   - `Left Arrow`: Rotate left
